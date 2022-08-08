@@ -1,7 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: August 8 2022 
+Submitted PSET1 of Cs50, CS50 edx
+
+Freecodecamp: Currently done with the Piano design, will make a technical documentation page as part of the requirements.
+
+
+
+
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
