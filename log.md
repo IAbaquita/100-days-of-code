@@ -5,32 +5,16 @@ Submitted PSET1 of Cs50, CS50 edx
 
 Freecodecamp: Currently done with the Piano design, will make a technical documentation page as part of the requirements.
 
+Thoughts: " I am still learning on how to apply HTML and CSS properly, I struggle understanding the concepts of id, class, attribute and element.
+As for CSS, I am now having ideas on how to differentiate the format of selector(.) and element(#)
 
 
 
+### Day 1: August 9 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+Freecodecamp: I am currently doing the technical documentation page,
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+Concepts learned:
+HTML: <nav> <a> <article> href
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
