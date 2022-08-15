@@ -35,5 +35,12 @@ Completed my Technical Documentation page,
   CSS: placing variables
   var(--name, value)
   
+Currently doing: City Skylines
   
+ ### Day 4 August 16 2022:
+  
+  Finished City Skylines in CSS.
+  
+  ![image](https://user-images.githubusercontent.com/100009303/184676698-83a4414d-7a4d-4226-bd4c-42981e4d0e85.png)
+
 
