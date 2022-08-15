@@ -42,5 +42,9 @@ Currently doing: City Skylines
   Finished City Skylines in CSS.
   
   ![image](https://user-images.githubusercontent.com/100009303/184676698-83a4414d-7a4d-4226-bd4c-42981e4d0e85.png)
+  
+  ![image](https://user-images.githubusercontent.com/100009303/184676896-4e495c01-2291-43da-bac0-87ac5cb68688.png)
+
+  Thoughts: " " 
 
 
