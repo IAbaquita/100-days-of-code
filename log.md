@@ -45,6 +45,9 @@ Currently doing: City Skylines
   
   ![image](https://user-images.githubusercontent.com/100009303/184676896-4e495c01-2291-43da-bac0-87ac5cb68688.png)
 
-  Thoughts: " " 
+ Concepts learned: 
+:root selector, repeating-linear-gradient, radial-gradient
+
+Thoughts: One of the hardest activities that I have participated in @freeCodeCamp , I am grateful on my progress. Onto the next. " 
 
 
