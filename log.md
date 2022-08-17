@@ -60,7 +60,7 @@ Thoughts: One of the hardest activities that I have participated in @freeCodeCam
   
   HTML
   <hr> no closing tag
-  <a> tag - defines a hyperlink
+  < a >  tag - defines a hyperlink
   
   CSS
   minmax function- 
