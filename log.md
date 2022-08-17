@@ -86,10 +86,12 @@ Thoughts: One of the hardest activities that I have participated in @freeCodeCam
   Thoughts: "I am currently experiencing information overload, but I do not mind it because it is part of the learning curve, I am grateful to freecodecamp as 
     I see that my learnings are coming into fruition. I will review my code from time to time in order to learn deeper on the projects that I have done."
     
-    ![image](https://user-images.githubusercontent.com/100009303/185101362-8dd48567-1869-4eb7-b74f-456c3451314a.png)
+   ![image](https://user-images.githubusercontent.com/100009303/185101628-a0eebfc9-a61c-44d8-b61c-ba30e707fde1.png)
 
-    ![image](https://user-images.githubusercontent.com/100009303/185101386-a6a5109a-5c6a-462c-8def-a381d268eb01.png)
+    ![image](https://user-images.githubusercontent.com/100009303/185101698-7d8f37b0-f409-44af-b27b-90fc4a23b0e2.png)
 
-    ![image](https://user-images.githubusercontent.com/100009303/185101429-03eba774-1d32-412b-8181-c903c187c222.png)
+    ![image](https://user-images.githubusercontent.com/100009303/185101761-5e03b913-cf3b-43f1-b88f-a3f03d9565f9.png)
+
+    ![image](https://user-images.githubusercontent.com/100009303/185101861-71984e2d-1812-49f9-a185-714f0b223d41.png)
 
    
