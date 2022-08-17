@@ -59,7 +59,7 @@ Thoughts: One of the hardest activities that I have participated in @freeCodeCam
   Concepts learned:
   
   HTML
-  <hr> no closing tag
+   hr no closing tag
   < a >  tag - defines a hyperlink
   
   CSS
