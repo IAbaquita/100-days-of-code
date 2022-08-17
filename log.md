@@ -51,3 +51,45 @@ Currently doing: City Skylines
 Thoughts: One of the hardest activities that I have participated in @freeCodeCamp , I am grateful on my progress. Onto the next. " 
 
 
+
+  
+  ### Day 5 : August 17 2022:
+  
+  I am done doing Learn CSS Grid by Building a magazine
+  Concepts learned:
+  
+  HTML
+  <hr> no closing tag
+  <a> tag - defines a hyperlink
+  
+  CSS
+  minmax function- 
+  grid-template-functions:
+  grid-column:
+  row-gap:
+  position:
+  object-fit:
+  text-align:
+  display:grid;
+  repeat () function:
+  grid-auto-flow:
+  grid-auto-columns:
+  align-items:
+  ::first-letter selector:
+  float:
+  margin:
+  list-style-type:
+  grid-template:
+  place-items:center;
+  @media only screen and (max-width:)
+    
+  Thoughts: "I am currently experiencing information overload, but I do not mind it because it is part of the learning curve, I am grateful to freecodecamp as 
+    I see that my learnings are coming into fruition. I will review my code from time to time in order to learn deeper on the projects that I have done."
+    
+    ![image](https://user-images.githubusercontent.com/100009303/185101362-8dd48567-1869-4eb7-b74f-456c3451314a.png)
+
+    ![image](https://user-images.githubusercontent.com/100009303/185101386-a6a5109a-5c6a-462c-8def-a381d268eb01.png)
+
+    ![image](https://user-images.githubusercontent.com/100009303/185101429-03eba774-1d32-412b-8181-c903c187c222.png)
+
+   
