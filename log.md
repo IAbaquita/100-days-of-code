@@ -95,3 +95,37 @@ Thoughts: One of the hardest activities that I have participated in @freeCodeCam
     ![image](https://user-images.githubusercontent.com/100009303/185101861-71984e2d-1812-49f9-a185-714f0b223d41.png)
 
    
+###Day 6: August 26 2022.
+    
+  I have built a product landing page.
+    
+  Concepts learned / reinforced:
+  
+  HTML:
+  div-id
+  class
+  li
+  ol
+  href
+  section
+  h2
+  span
+    
+  CSS:
+  *
+  margin, padding, box-sizing
+  background-color, font-family
+  @media query
+  padding-bottom
+  flex-direction
+  transition
+    
+  ![image](https://user-images.githubusercontent.com/100009303/186853980-60169c93-8464-4afa-bcea-51e311020666.png)
+
+    
+    
+ ![image](https://user-images.githubusercontent.com/100009303/186854044-955e09f2-7874-4f5d-93e8-7ab94a48514e.png)
+
+    
+ Thoughts: I am always embracing the suck, there are so many things to learn, as a non tech guy I'm going to make it in the big leagues someday. I will just have to honor my process and do the necessary work and learn something new everyday.
+    
