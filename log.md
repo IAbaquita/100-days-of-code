@@ -157,9 +157,13 @@ overflow:clip
     Finished product:
     
     ![image](https://user-images.githubusercontent.com/100009303/187139895-7b272b1b-68fa-45d8-aeea-123be9317e5d.png)
+![image](https://user-images.githubusercontent.com/100009303/187140222-64a49339-95ea-415d-938e-faca443b637c.png)
 
-    Thoughts:
-    I guess I am sucking on a less degree now, learning a lot really takes time. I am proud of my small progress and will always find improvements on the projects that I have participated.
+    
+    
+   Thoughts:
+    I guess I am sucking on a less degree now, learning a lot really takes time. I am proud of my small progress and will always find improvements on the projects 
+    that I have participated.
     
   Next stop will be my personal portfolio page. I hope I can wing it.
     
