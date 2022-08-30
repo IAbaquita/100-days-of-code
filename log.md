@@ -168,4 +168,46 @@ overflow:clip
   Next stop will be my personal portfolio page. I hope I can wing it.
     
   
+  ###Day 8: August 30 2022
+    
+    #100DaysOfCode 
+Day 8: Aug 30 2022
+
+I created a simple password generator that I can use for my future opening of accounts, using HTML, CSS, and Javascript.
+
+Concepts learned / reinforced
+
+HTML<!Doctype HTML>
+<h1> <h3> <form> <label>
+
+CSS: grid-template, row-gap, column-gap
   
+  ![image](https://user-images.githubusercontent.com/100009303/187382526-e42cf8da-3f13-406d-b57a-d7f94f040a80.png)
+
+  
+  2/3
+
+Justify-content
+align-items
+flex-direction:
+display:flex
+
+Javascript:
+
+const 
+let
+function
+loops
+Math.floor
+Math.random
+document.getelementbyID
+form.addeventListener
+
+#100DaysOfCode
+  
+  
+  3/3
+Thoughts:
+Still embracing the suck, but is now sucking less , grateful on my progress as always. Will wing the personal portfolio page within the week. We are all going to make, lets just trust the process and do the work
+
+#100DaysOfCode
