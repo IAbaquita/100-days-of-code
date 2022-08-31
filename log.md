@@ -211,3 +211,21 @@ Thoughts:
 Still embracing the suck, but is now sucking less , grateful on my progress as always. Will wing the personal portfolio page within the week. We are all going to make, lets just trust the process and do the work
 
 #100DaysOfCode
+  
+  
+ Day 9: August 31 2022:
+  
+ I am now done with my personal landing page, I actually learned a lot when I dissect and browse websites and see on how they work
+ I also added some mini projects in order for me to practice my coding skills
+ Concepts learned / reinforced
+  
+ HTML: Class , ID's, NavBar , 
+ W3school: Font-awesome
+ VS Code shortcuts: Alt + Shift + arrow down, ."filename" for easier coding
+ Javascript: array.form, break, inner.Text document.(e) getElementbyId
+ 
+ Onto the next:
+ 
+  ![image](https://user-images.githubusercontent.com/100009303/187647884-bf7b3c8f-914f-4c1f-8626-8707d912ca4d.png)
+
+  
