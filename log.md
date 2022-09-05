@@ -229,3 +229,8 @@ Still embracing the suck, but is now sucking less , grateful on my progress as a
   ![image](https://user-images.githubusercontent.com/100009303/187647884-bf7b3c8f-914f-4c1f-8626-8707d912ca4d.png)
 
   
+ Day 10-13 : September 1 - 4 2022:
+  
+ I have now finished the basic javascript course in Freecodecamp.
+ 
+ Concepts learned: A LOT, I have to review this course again.
