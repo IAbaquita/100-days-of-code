@@ -245,5 +245,15 @@ Concepts learned / reinforced : window.overload , border-radius, .addEventListen
   ![image](https://user-images.githubusercontent.com/100009303/188615000-149af641-6273-435d-84a6-e55f32c37299.png)
 
   
+ Day 15 of #100DaysofCode September 7 2022
   
+ I created a QR generator (Mini project)
+  
+ Concepts learned / Reinforced:
+ JS: .classList , .querySelector , .addEventListener 
+ CSS: :where , pointer events:none;
+  
+ ![image](https://user-images.githubusercontent.com/100009303/188705221-99880ebc-9861-4a9a-939b-7dc50307f2fb.png)
+ 
+ 
   
