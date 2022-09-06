@@ -234,3 +234,16 @@ Still embracing the suck, but is now sucking less , grateful on my progress as a
  I have now finished the basic javascript course in Freecodecamp.
  
  Concepts learned: A LOT, I have to review this course again.
+  
+  
+ Day 14 of #100DaysOfCode  September 6 2022
+
+Created a Stopwatch using HTML, CSS, and Javascript
+Concepts learned / reinforced : window.overload , border-radius, .addEventListener, document.getElementById, clearInterval, function, loops
+  
+  
+  ![image](https://user-images.githubusercontent.com/100009303/188615000-149af641-6273-435d-84a6-e55f32c37299.png)
+
+  
+  
+  
