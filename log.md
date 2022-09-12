@@ -256,4 +256,12 @@ Concepts learned / reinforced : window.overload , border-radius, .addEventListen
  ![image](https://user-images.githubusercontent.com/100009303/188705221-99880ebc-9861-4a9a-939b-7dc50307f2fb.png)
  
  
+  Day 16 of #100DaysofCode September 13 2022:
+
+  
+  I am now done, with ES6 in Javascript
+  Thoughts: Definitely javascript has a steep learning curve that requires daily practice, as a non tech guy I do not have the firepower to understand all the core concepts that I have learned so far but I will take it one day at a time.
+  
+![image](https://user-images.githubusercontent.com/100009303/189704539-514f2a38-0a32-4b7d-88dd-64c29254d02d.png)
+
   
