@@ -273,3 +273,11 @@ Javascript is tough, but the developer in me is tougher.
 
 ![image](https://user-images.githubusercontent.com/100009303/190153282-189b2808-c9a1-49fc-bc7a-5051e14480e6.png)
 
+  
+  Day 18  of #100DaysofCode September 15 2022:
+I am now done with Debugging.
+
+So far this is my favorite module in Javascript. I think debugging is an essential skill to have for it hastens my learning curve into things.
+
+![image](https://user-images.githubusercontent.com/100009303/190204941-7db30214-6848-471b-9dde-76722a586570.png)
+
