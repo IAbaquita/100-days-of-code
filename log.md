@@ -265,3 +265,11 @@ Concepts learned / reinforced : window.overload , border-radius, .addEventListen
 ![image](https://user-images.githubusercontent.com/100009303/189704539-514f2a38-0a32-4b7d-88dd-64c29254d02d.png)
 
   
+  
+Day 17  of #100DaysofCode September 14 2022:
+I am now done with Regular expressions.
+
+Javascript is tough, but the developer in me is tougher.
+
+![image](https://user-images.githubusercontent.com/100009303/190153282-189b2808-c9a1-49fc-bc7a-5051e14480e6.png)
+
