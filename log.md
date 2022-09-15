@@ -286,7 +286,10 @@ Day 19 of #100DaysofCode September 16 2022
 I have personally created a frequently asked questions in HTML , CSS and Javascript.
 Concepts learned / reinforced:
 HTML SVG (Scalable vector graphics)
-  
+Section
+Max-width
+Cursor: pointer
+
   
   
   ![image](https://user-images.githubusercontent.com/100009303/190386672-75adbb76-c76c-4fc1-9206-ab88deb76c6d.png)
