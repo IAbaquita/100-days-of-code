@@ -281,3 +281,14 @@ So far this is my favorite module in Javascript. I think debugging is an essenti
 
 ![image](https://user-images.githubusercontent.com/100009303/190204941-7db30214-6848-471b-9dde-76722a586570.png)
 
+Day 19 of #100DaysofCode September 16 2022
+  
+I have personally created a frequently asked questions in HTML , CSS and Javascript.
+Concepts learned / reinforced:
+HTML SVG (Scalable vector graphics)
+  
+  
+  
+  ![image](https://user-images.githubusercontent.com/100009303/190386672-75adbb76-c76c-4fc1-9206-ab88deb76c6d.png)
+
+
