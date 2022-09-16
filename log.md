@@ -294,4 +294,15 @@ Cursor: pointer
   
   ![image](https://user-images.githubusercontent.com/100009303/190386672-75adbb76-c76c-4fc1-9206-ab88deb76c6d.png)
 
+  
+Day 20 of #100DaysofCode September 17 2022
+  
+Created a dictionary (Mini-project) inspired by Coding nepal.
+Concepts learned / Reinforced:
+.querySelector , .innerHTML , .classList , .addEventListener , function , if-else.
 
+  
+  ![image](https://user-images.githubusercontent.com/100009303/190570787-a31be3d2-08e1-45db-bbf5-f0c685213040.png)
+
+  
+  
