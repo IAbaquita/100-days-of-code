@@ -304,5 +304,14 @@ Concepts learned / Reinforced:
   
   ![image](https://user-images.githubusercontent.com/100009303/190570787-a31be3d2-08e1-45db-bbf5-f0c685213040.png)
 
+Day 21 of #100DaysofCode September 19 2022
   
+I have finished the basic Data structure course of Javascript via freecodecamp.
+Concepts learned / reinforced
+arrays,bracketnotation,push(),unshift(),array.push(),array.unshift(),
+,pop(),shift(),splice(),slice(),...,indexOf(),Objects,delete,Object.keys()
+  
+  
+![image](https://user-images.githubusercontent.com/100009303/191146959-2a335050-eff3-493a-96d6-add8edf31d7f.png)
+
   
