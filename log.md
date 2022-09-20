@@ -326,4 +326,17 @@ HTML: <a href target="_blank">
 fontawesome.
   
 ![image](https://user-images.githubusercontent.com/100009303/191192283-bd52ce3f-e161-41ab-899c-a101ebbbd4ca.png)
+  
+  
+Day 23 of #100DaysofCode September 21 2022
+Created a slidingnavbar (inpsired by Coding Nepal)
+Concepts learned / reinforced:
+
+HTML:  section, ul, li, a , header
+CSS: :checked ~ padding , z-index , header
+
+https://user-images.githubusercontent.com/100009303/191217496-94d5c48f-d693-49ca-afc3-92137f45667c.mp4
+
+
+
 
