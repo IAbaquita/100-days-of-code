@@ -315,3 +315,13 @@ arrays,bracketnotation,push(),unshift(),array.push(),array.unshift(),
 ![image](https://user-images.githubusercontent.com/100009303/191146959-2a335050-eff3-493a-96d6-add8edf31d7f.png)
 
   
+Day 22 of #100DaysofCode September 20 2022
+
+Modified my personal portfolio website.
+Added some icons, via Fontawesome.
+Created a link that will have a direct access to my CV as well available for download.
+Concepts learned
+
+HTML: <a href target="_blank"> 
+fontawesome.
+  
