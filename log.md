@@ -322,7 +322,7 @@ Added some icons, via Fontawesome.
 Created a link that will have a direct access to my CV as well available for download.
 Concepts learned
 
-HTML: <a href target="_blank"> 
+HTML: href <a, target = _ blank> 
 fontawesome.
   
 ![image](https://user-images.githubusercontent.com/100009303/191192283-bd52ce3f-e161-41ab-899c-a101ebbbd4ca.png)
