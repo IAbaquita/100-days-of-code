@@ -338,5 +338,12 @@ CSS: :checked ~ padding , z-index , header
 https://user-images.githubusercontent.com/100009303/191217496-94d5c48f-d693-49ca-afc3-92137f45667c.mp4
 
 
+Day 24 of #100DaysofCode September 26 2022
+  
+I have finished the OOP in Javascript.
+All I can say it is a tough cookie to crack, I only understand 10% of Javascript and it makes my brain bleed.
+But that's okay, the program is tough but the developer in me is tougher.
+  
+![image](https://user-images.githubusercontent.com/100009303/192295003-012529c6-702a-4c67-aa54-cc752894caee.png)
 
 
