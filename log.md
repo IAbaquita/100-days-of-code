@@ -347,3 +347,14 @@ But that's okay, the program is tough but the developer in me is tougher.
 ![image](https://user-images.githubusercontent.com/100009303/192295003-012529c6-702a-4c67-aa54-cc752894caee.png)
 
 
+Day 25 of #100DaysofCode September 27 2022
+
+I decided to create a mini project, (movie search bar)
+Concepts learned / reinforced:
+HTML: <div> <h6> data-name
+CSS: obejct-fit, overflow, flex-wrap, text-transform, transition
+Javascript: const, .addEventListener, keyup, e=>, .value, != , .style.display "block"
+VSCode: Ctrl + D shortcut to type faster.
+  
+![image](https://user-images.githubusercontent.com/100009303/192434839-077b3551-e37b-4f6a-b995-7012b8064074.png)
+
