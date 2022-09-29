@@ -359,3 +359,11 @@ VSCode: Ctrl + D shortcut to type faster.
   
 ![image](https://user-images.githubusercontent.com/100009303/192434839-077b3551-e37b-4f6a-b995-7012b8064074.png)
 
+
+Day 26 of #100DaysofCode September 29 2022
+Created a back to top button that is functioning.
+Concepts learned / reinforced.
+javasript: window.addEventListener, if-else statements  const
+css: letter-spacing:
+  
+  ![image](https://user-images.githubusercontent.com/100009303/192991439-3283985a-01d8-4e28-9bf6-8f4e31ed2d97.png)
