@@ -374,4 +374,5 @@ css: letter-spacing:
 I am still on the process of repeating Basic Javascript in order to reinforce my learnings in FreeCodeCamp. Javascript is a no joke for beginners like me. Any tips?
 
  Concepts learned: For loop (Can be nested) Do while loop - do a loop while condition is TRUE 
+ VSCode shortcut - F2 greatly used for variables
   ![image](https://user-images.githubusercontent.com/100009303/193393066-881cce7f-4e8e-41c0-997e-2b59a208c722.png)
