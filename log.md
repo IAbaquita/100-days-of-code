@@ -367,3 +367,11 @@ javasript: window.addEventListener, if-else statements  const
 css: letter-spacing:
   
   ![image](https://user-images.githubusercontent.com/100009303/192991439-3283985a-01d8-4e28-9bf6-8f4e31ed2d97.png)
+
+  
+  
+  Day 27 - 30 of #100DaysofCode October 1 2022
+I am still on the process of repeating Basic Javascript in order to reinforce my learnings in FreeCodeCamp. Javascript is a no joke for beginners like me. Any tips?
+
+  
+  ![image](https://user-images.githubusercontent.com/100009303/193393066-881cce7f-4e8e-41c0-997e-2b59a208c722.png)
