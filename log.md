@@ -376,3 +376,14 @@ I am still on the process of repeating Basic Javascript in order to reinforce my
  Concepts learned: For loop (Can be nested) Do while loop - do a loop while condition is TRUE 
  VSCode shortcut - F2 greatly used for variables
   ![image](https://user-images.githubusercontent.com/100009303/193393066-881cce7f-4e8e-41c0-997e-2b59a208c722.png)
+
+  
+Day 31 of #100DaysofCode October 3 2022
+  
+I created a random quote generator using HTML / CSS and Javascript.
+Concepts learned / reinforced:
+ HTML: class and id's , h3 
+CSS: flexbox, display, media query, color, width, font-size
+Javascript: .getElementById, math.floor, math.random, arrays
+  
+![image](https://user-images.githubusercontent.com/100009303/193507747-8e9f5a5d-3310-49fb-a5d5-20e7ce19a3c2.png)
