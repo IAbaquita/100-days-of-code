@@ -387,3 +387,13 @@ CSS: flexbox, display, media query, color, width, font-size
 Javascript: .getElementById, math.floor, math.random, arrays
   
 ![image](https://user-images.githubusercontent.com/100009303/193507747-8e9f5a5d-3310-49fb-a5d5-20e7ce19a3c2.png)
+  
+  
+Day 32 of #100DaysofCode 
+Restarted basic javascript module to further reinforce my learnings to the following concepts.
+  
+Math.floor
+Math.random
+Recursive function
+in operator
+
