@@ -389,11 +389,14 @@ Javascript: .getElementById, math.floor, math.random, arrays
 ![image](https://user-images.githubusercontent.com/100009303/193507747-8e9f5a5d-3310-49fb-a5d5-20e7ce19a3c2.png)
   
   
-Day 32 of #100DaysofCode 
+Day 32 and 33 of #100DaysofCode October 4-5 2022
 Restarted basic javascript module to further reinforce my learnings to the following concepts.
-  
+
 Math.floor
 Math.random
 Recursive function
 in operator
 
+Will practice more in the coming days, via projects 
+
+![image](https://user-images.githubusercontent.com/100009303/194003049-bbb21b4e-8cc3-4ae6-8573-1fb1dd42289e.png)
