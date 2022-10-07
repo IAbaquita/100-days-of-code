@@ -400,3 +400,15 @@ in operator
 Will practice more in the coming days, via projects 
 
 ![image](https://user-images.githubusercontent.com/100009303/194003049-bbb21b4e-8cc3-4ae6-8573-1fb1dd42289e.png)
+  
+Day 34 of #100DaysofCode October 6 2022
+  
+Created a login form using HTML , CSS and Javascript in order to appreciate front end development
+
+Concepts learned / reinforced:
+HTML: form , input, input type, div, div class, 
+CSS: background-color, url, padding, display, flex
+Javascript: var, functions, if-then statements .focus()
+  
+  ![image](https://user-images.githubusercontent.com/100009303/194459595-8e86e5ac-6df8-488e-90b9-7450cb3eca43.png)
+
