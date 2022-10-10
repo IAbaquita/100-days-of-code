@@ -412,3 +412,12 @@ Javascript: var, functions, if-then statements .focus()
   
   ![image](https://user-images.githubusercontent.com/100009303/194459595-8e86e5ac-6df8-488e-90b9-7450cb3eca43.png)
 
+
+Day 35 of #100DaysofCode October 10 2022
+  
+Created a BMI calculator.
+Concepts learned
+HTML: HTML DOM, documnet.getElementById, .innerHTML
+Javascript: if-else === 
+  
+  ![image](https://user-images.githubusercontent.com/100009303/194796710-a947b04e-ec60-48f1-a67f-d36d3dd5dcd7.png)
