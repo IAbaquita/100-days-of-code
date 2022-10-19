@@ -433,3 +433,12 @@ Learning as always <3
 
 LFG!
                       ![image](https://user-images.githubusercontent.com/100009303/196189885-86701bde-752d-45fc-9605-693b65043c97.png)
+                      
+                      
+                      
+Day 37 of #100DaysofCode October 19 2022                    
+As I get back to my basics in HTML and CSS, in preparation for my first portfolio project.
+I realized that I am a work in progress.
+Therefore, honor the struggle!
+                      ![image](https://user-images.githubusercontent.com/100009303/196714532-e8d00370-9053-4040-abc8-fc7f173467cd.png)
+
