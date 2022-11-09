@@ -442,3 +442,44 @@ I realized that I am a work in progress.
 Therefore, honor the struggle!
                       ![image](https://user-images.githubusercontent.com/100009303/196714532-e8d00370-9053-4040-abc8-fc7f173467cd.png)
 
+
+Day 38 of #100DaysofCode October 28 2022 
+
+Going back to the drawing board on my first project. Designing the wireframe in order for me to code efficiently with a structure and a process is very important.
+
+Struggled in HTML, CSS and JS but ill make it <3
+                      
+                      
+Day 39 of #100DaysofCode November 2 2022 
+
+I realized that I learn faster by doing more vs learning through tutorials.
+
+Building the technical skills will come eventually once I understand the core concepts of everything that I do and that takes TIME.
+
+TRUST THE PROCESS <3                      
+                      
+Day 40 of #100DaysofCode November 3 2022 
+
+Doubling down on CSS, repeating some concepts and  would like to be more knowledgeable in CSS flex grid / grid, box model, and flexbox                     
+                      
+                      
+Day 41 of #100DaysofCode November 4 2022 
+
+Slaying the CSS god in me, in order to move forward in my journey with a knowledge that I will forever use.
+
+If I need to step back a bit then so be it, trust the process as always.
+
+#CSS                     
+                      
+                      
+Day 42 of #100DaysofCode November 7 2022 
+
+Revisiting HTML and CSS in order to gain a better understanding of things. I should build a mini-project at this point. My fingers are really itching to create something of essence.
+ #HTML #CSS                     
+                      
+                      
+Day 43 of #100DaysofCode November 9 2022 
+
+I underestimated CSS, but I will get the hang of it, working on my fundamentals first before deep diving into frameworks.
+
+So far so good, I'll finish this challenge, no matter what. So be it                      
